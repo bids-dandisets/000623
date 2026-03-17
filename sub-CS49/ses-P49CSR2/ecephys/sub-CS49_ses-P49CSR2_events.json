@@ -1,0 +1,40 @@
+{
+    "onset": {
+        "Description": "Onset of the event, measured from the beginning of the acquisition.",
+        "Units": "s"
+    },
+    "duration": {
+        "Description": "Duration of the event (measured from onset).",
+        "Units": "s"
+    },
+    "stim_phase": {
+        "Description": "Encoding (movie watching) or recognition phase during the session"
+    },
+    "stimulus_file": {
+        "Description": "The file name for the stimulus"
+    },
+    "response_correct": {
+        "Description": "Whether the response was correct=1 or incorrect=0 for each new/old trial"
+    },
+    "response_confidence": {
+        "Description": "The confidence level of response \n                              (1=guessing, 2=unsure, 3=sure) for each each new/old trial"
+    },
+    "actual_response": {
+        "Description": "The button pressed during experiment, 1-6, where\n                             1:new-sure, 2:new-unsure, 3:new-guessing, 4:old-guessing, 5:old-unsure, 6:old-sure"
+    },
+    "response_time": {
+        "Description": "The response time for each new/old trial"
+    },
+    "nwb_table": {
+        "Description": "The name of the NWB table from which this event was extracted.",
+        "Levels": {
+            "trials": "The 'trials' table in the NWB file."
+        },
+        "HED": {
+            "trials": "Experimental-trial"
+        }
+    },
+    "trials": {
+        "Description": "experimental trials"
+    }
+}
