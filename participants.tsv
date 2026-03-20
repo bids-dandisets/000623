@@ -1,17 +1,17 @@
-participant_id	species	sex
-sub-CS41	Homo sapiens	F
-sub-CS42	Homo sapiens	F
-sub-CS43	Homo sapiens	F
-sub-CS44	Homo sapiens	F
-sub-CS47	Homo sapiens	M
-sub-CS48	Homo sapiens	F
-sub-CS49	Homo sapiens	F
-sub-CS51	Homo sapiens	M
-sub-CS53	Homo sapiens	M
-sub-CS54	Homo sapiens	F
-sub-CS55	Homo sapiens	F
-sub-CS56	Homo sapiens	M
-sub-CS57	Homo sapiens	M
-sub-CS58	Homo sapiens	F
-sub-CS60	Homo sapiens	M
-sub-CS62	Homo sapiens	F
+participant_id	original_participant_id	species	sex
+sub-CS41	sub-CS41	Homo sapiens	F
+sub-CS42	sub-CS42	Homo sapiens	F
+sub-CS43	sub-CS43	Homo sapiens	F
+sub-CS44	sub-CS44	Homo sapiens	F
+sub-CS47	sub-CS47	Homo sapiens	M
+sub-CS48	sub-CS48	Homo sapiens	F
+sub-CS49	sub-CS49	Homo sapiens	F
+sub-CS51	sub-CS51	Homo sapiens	M
+sub-CS53	sub-CS53	Homo sapiens	M
+sub-CS54	sub-CS54	Homo sapiens	F
+sub-CS55	sub-CS55	Homo sapiens	F
+sub-CS56	sub-CS56	Homo sapiens	M
+sub-CS57	sub-CS57	Homo sapiens	M
+sub-CS58	sub-CS58	Homo sapiens	F
+sub-CS60	sub-CS60	Homo sapiens	M
+sub-CS62	sub-CS62	Homo sapiens	F
